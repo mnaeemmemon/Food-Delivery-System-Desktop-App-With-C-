@@ -1,0 +1,87 @@
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe.config
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.pdb
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csprojAssemblyReference.cache
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminLogin.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminPortal.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Home.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Properties.Resources.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserLogin.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserSignup.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.GenerateResource.cache
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.CoreCompileInputs.cache
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.exe
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.pdb
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserPortal.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Additem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.DeleteItem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateItem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe.config
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.pdb
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csprojAssemblyReference.cache
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Additem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminLogin.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminPortal.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.DeleteItem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Home.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Properties.Resources.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateItem.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserLogin.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserPortal.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserSignup.resources
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.GenerateResource.cache
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.CoreCompileInputs.cache
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.exe
+C:\Users\naeem\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.pdb
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe.config
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.exe
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.pdb
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.pdb
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\mscorlib.dll
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\System.Net.Http.dll
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\System.Net.Http.xml
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\normidna.nlp
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\normnfc.nlp
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\normnfd.nlp
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\normnfkc.nlp
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\bin\Debug\normnfkd.nlp
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csprojResolveAssemblyReference.cache
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Additem.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminLogin.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminPortal.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.DeleteItem.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Home.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Properties.Resources.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateItem.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserLogin.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserPortal.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserSignup.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.GenerateResource.Cache
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateID.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Cart.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Bill.resources
+C:\Users\Iqra Irshad\Desktop\Food_Delivery_System - Copy\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.History.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe.config
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.exe
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\bin\Debug\Food_Delivery_System.pdb
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csprojAssemblyReference.cache
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Additem.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminLogin.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.AdminPortal.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Bill.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Cart.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.DeleteItem.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.History.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Home.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.Properties.Resources.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateID.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UpdateItem.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserLogin.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserPortal.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.UserSignup.resources
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.GenerateResource.cache
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.csproj.CoreCompileInputs.cache
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.exe
+F:\My Projects\Food_Delivery_System in C# and MySql\Food_Delivery_System\Food_Delivery_System\obj\Debug\Food_Delivery_System.pdb
